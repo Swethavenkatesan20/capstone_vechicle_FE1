@@ -1,0 +1,9 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('https://www.backgroundsy.com/file/large/light-blue-background.jpg'); 
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
